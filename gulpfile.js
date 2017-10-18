@@ -25,4 +25,6 @@ gulp.task('background', ['clean'], function () {
   	gulp.watch('./source/scss/*.scss', ['sass']);
   	gulp.watch('./source/*.html', ['minify']);
 });
+
+gulp.task('default', ['background']);
  
