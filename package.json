@@ -1,0 +1,19 @@
+{
+  "name": "exerciciomodulo4",
+  "version": "1.0.0",
+  "description": "Exercicio do modulo de WorkFloe do curso de Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toshi Ossada",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-css-scss": "^0.1.0",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-sass": "^3.1.0"
+  }
+}

@@ -1,0 +1,12 @@
+// Crio a variável
+$cor-padrao: #069;
+ 
+.btn-primario {
+  // aqui eu chamo a variável:
+  background: $cor-padrao;
+}
+ 
+.texto-principal {
+  // chamo aqui também:
+  color: $cor-padrao;
+}
